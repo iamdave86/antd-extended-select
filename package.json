@@ -2,15 +2,13 @@
   "name": "antd-extended-select",
   "version": "1.0.0",
   "description": "Ability to add options with explanations to Ant Design's Select",
+  "author": "iamdave86 (https://github.com/iamdave86)",
+  "repository": "https://github.com/iamdave86/antd-extended-select",
   "main": "index.js",
   "scripts": {
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "lint": "eslint src"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/daveedx/antd-extended-select.git"
   },
   "keywords": [
     "javascript",
